@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/usm_info.jpg" alt="Logo de la universidad" width="300">
+  <img src="./img/di-utfsm.png" alt="Logo de la universidad" width="300">
 </p>
 
 # Portafolio de la asignatura INF-449 Fotografía Computacional
