@@ -1,7 +1,14 @@
-<p align="center">
-  <img src="./img/di-utfsm.png" alt="Logo de la universidad" width="300">
-</p>
-
+<table align="center">
+  <tr>
+    <td bgcolor="white" align="center">
+      <img
+        src="./img/di-utfsm.png"
+        alt="Logo del Departamento de Informática"
+        width="700"
+      >
+    </td>
+  </tr>
+</table>
 # Portafolio de la asignatura INF-449 Fotografía Computacional
 
 Este repositorio contiene las tareas, material de exposiciones y entregas del proyecto realizadas para la asignatura **Fotografía Computacional** durante el período 2-2026.
